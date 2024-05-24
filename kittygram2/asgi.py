@@ -1,9 +1,9 @@
 """
-ASGI config for kittygram2 project.
+Configuración ASGI para el proyecto kittygram2.
 
-It exposes the ASGI callable as a module-level variable named ``application``.
+Expone el ASGI que puede llamarse como una variable de nivel módulo llamada ``application``.
 
-For more information on this file, see
+Para obtener más información acerca de este archivo, consulta
 https://docs.djangoproject.com/en/3.2/howto/deployment/asgi/
 """
 
