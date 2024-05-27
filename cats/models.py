@@ -2,11 +2,11 @@ from django.contrib.auth import get_user_model
 from django.db import models
 
 CHOICES = (
-    ('gra', 'Gray'),
-    ('bla', 'Black'),
-    ('whi', 'White'),
-    ('gin', 'Ginger'),
-    ('mix', 'Mixed'),
+    ('gri', 'Gris'),
+    ('neg', 'Negro'),
+    ('bla', 'Blanco'),
+    ('nar', 'Naranja'),
+    ('mix', 'Mixto'),
 )
 
 User = get_user_model()
