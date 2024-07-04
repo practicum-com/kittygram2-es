@@ -7,7 +7,7 @@ git clone https://github.com/tripleten-com/kittygram2_es.git
 ```
 
 ```
-cd kittygram2-en
+cd kittygram2_es
 ```
 
 Crea y activa un entorno virtual:
